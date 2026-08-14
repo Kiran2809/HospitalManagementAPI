@@ -161,7 +161,7 @@ Swagger/OpenAPI is integrated into the project to test and explore the API endpo
 After running the application, open:
 
 ```text
-https://localhost:<port>/swagger
+https://localhost:7105/swagger
 ```
 
 The exact port depends on the application's local configuration.
