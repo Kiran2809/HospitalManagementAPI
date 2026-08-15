@@ -321,6 +321,10 @@ Examples include:
 
 https://github.com/Kiran2809/HospitalManagementAPI
 
+## Project Status
+
+CI/CD pipeline configured with Jenkins.
+
 ## 🚧 Future Enhancements
 
 Possible future improvements include:
@@ -334,10 +338,6 @@ Possible future improvements include:
 * Unit and integration testing
 * CI/CD pipeline
 * Cloud deployment
-
-## Project Status
-
-CI/CD pipeline configured with Jenkins.
 
 ## 👨‍💻 Author
 
