@@ -323,7 +323,7 @@ https://github.com/Kiran2809/HospitalManagementAPI
 
 ## Project Status
 
-CI/CD pipeline configured with Jenkins.
+// CI/CD pipeline configured with Jenkins.
 
 ## 🚧 Future Enhancements
 
