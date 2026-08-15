@@ -252,7 +252,7 @@ After the application starts, open the Swagger URL shown in the application outp
 Example:
 
 ```text
-https://localhost:<port>/swagger
+https://localhost:7105/swagger
 ```
 
 ## 🔄 API Request Flow
