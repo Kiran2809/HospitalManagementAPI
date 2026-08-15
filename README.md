@@ -335,6 +335,10 @@ Possible future improvements include:
 * CI/CD pipeline
 * Cloud deployment
 
+## Project Status
+
+CI/CD pipeline configured with Jenkins.
+
 ## 👨‍💻 Author
 
 **Kiran**
